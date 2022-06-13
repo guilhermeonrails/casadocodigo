@@ -9,6 +9,15 @@
         "categoria": "front-end"
     },
     {
+        "titulo": "PostgreSQL: Banco de dados para aplicações web modernas",
+        "preco": 89.9,
+        "autor": "Vinícius Carvalho",
+        "imagem": "https://caelum-online-public.s3.amazonaws.com/2628-js/postgres.png",
+        "alt": "Capa do livro de PostgreSQL",
+        "quantidade": 8,
+        "categoria": "dados"
+    },
+    {
         "titulo": "Sass: Aprendendo pré-processadores CSS",
         "preco": 79.9,
         "autor": "Natan Souza",
@@ -88,15 +97,6 @@
         "alt": "Capa do livro de Vue.js",
         "quantidade": 0,
         "categoria": "front-end"
-    },
-    {
-        "titulo": "PostgreSQL: Banco de dados para aplicações web modernas",
-        "preco": 89.9,
-        "autor": "Vinícius Carvalho",
-        "imagem": "https://caelum-online-public.s3.amazonaws.com/2628-js/postgres.png",
-        "alt": "Capa do livro de PostgreSQL",
-        "quantidade": 8,
-        "categoria": "dados"
     },
     {
         "titulo": "ECMAScript 6: Entre de cabeça no futuro do JavaScript",
